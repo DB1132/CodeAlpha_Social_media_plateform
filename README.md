@@ -373,23 +373,6 @@ Create Post      Like / Comment
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots here after completing the UI.
-
-Example:
-
-```
-Home Feed
-
-Profile
-
-Create Post
-
-Followers
-
-Comments
-```
 
 ---
 
