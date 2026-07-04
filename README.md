@@ -377,7 +377,7 @@ Create Post      Like / Comment
 
 # 👨‍💻 Author
 
-**Deep Baldha**
+**Dip Baldha**
 
 GitHub: https://github.com/DB1132
 
